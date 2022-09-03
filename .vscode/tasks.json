@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/AULA_DEV_WEEK.csproj",
+        "${workspaceFolder}/aula_dev_week.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -19,7 +19,7 @@
       "type": "process",
       "args": [
         "publish",
-        "${workspaceFolder}/AULA_DEV_WEEK.csproj",
+        "${workspaceFolder}/aula_dev_week.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -33,7 +33,7 @@
         "watch",
         "run",
         "--project",
-        "${workspaceFolder}/AULA_DEV_WEEK.csproj"
+        "${workspaceFolder}/aula_dev_week.csproj"
       ],
       "problemMatcher": "$msCompile"
     }
