@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sX0SuecOUI5atJRGkMT8bdqpl7VxJDEMKe3lDUDWV/tzUslpsOl6uIIE5R7V7QM5VoSKgRvYdDNnOVZIts3FIA==",
+  "dgSpecHash": "pAc9rPooPBPsQa8f33fj0r+4oIUXU6FB1UtLe4aRCBJbAkMNUH6CdTg0tEeoXEzpY4HT7wLeEcvA2YIXIU9xYg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eddya\\Downloads\\Documents\\dotnet\\aula_dev_week\\aula_dev_week.csproj",
+  "projectFilePath": "C:\\Users\\Eddya\\Downloads\\Documents\\dotnet\\pottencial_dev_week_dio\\aula_dev_week.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eddya\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Eddya\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

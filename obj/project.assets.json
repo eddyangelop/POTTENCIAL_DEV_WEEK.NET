@@ -2225,11 +2225,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eddya\\Downloads\\Documents\\dotnet\\AULA_DEV_WEEK\\aula_dev_week.csproj",
+      "projectUniqueName": "C:\\Users\\Eddya\\Downloads\\Documents\\dotnet\\pottencial_dev_week_dio\\aula_dev_week.csproj",
       "projectName": "aula_dev_week",
-      "projectPath": "C:\\Users\\Eddya\\Downloads\\Documents\\dotnet\\AULA_DEV_WEEK\\aula_dev_week.csproj",
+      "projectPath": "C:\\Users\\Eddya\\Downloads\\Documents\\dotnet\\pottencial_dev_week_dio\\aula_dev_week.csproj",
       "packagesPath": "C:\\Users\\Eddya\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eddya\\Downloads\\Documents\\dotnet\\AULA_DEV_WEEK\\obj\\",
+      "outputPath": "C:\\Users\\Eddya\\Downloads\\Documents\\dotnet\\pottencial_dev_week_dio\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
